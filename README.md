@@ -1,5 +1,5 @@
 # EVShield_additions
-Additional classes added to the [EVShield library](https://github.com/mindsensors/EVShield)
+Additional classes which can be added to the [EVShield library](https://github.com/mindsensors/EVShield)
 
 ## Class EVs_HTColorSensor
 Class to [use an HiTechnic Color sensor with the EVShield](https://home.et.utwente.nl/slootenvanf/2018/06/08/hitechnic-colorsensor-evshield/)
